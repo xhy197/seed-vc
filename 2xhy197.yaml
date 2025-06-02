@@ -9,7 +9,7 @@ services:
       service:
         name: serverless-devs-application
       function:
-        name: seed-vc-en5s
+        name: seed-vc-co8z
         description: Initialize
         runtime: custom
         environmentVariables:
