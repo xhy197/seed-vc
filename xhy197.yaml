@@ -9,7 +9,7 @@ services:
       service:
         name: serverless-devs-application
       function:
-        name: seed-vc-re4h
+        name: seed-vc-eqtz
         description: Initialize
         runtime: custom
         environmentVariables:
